@@ -1,0 +1,5 @@
+module SampleQt
+typeinfo appSampleQt.qmltypes
+prefer :/SampleQt/
+Main 1.0 Main.qml
+

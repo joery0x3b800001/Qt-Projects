@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/SampleQt">/Users/shaunjoe/SampleQt/build/Qt_6_5_3_for_macOS-Debug/SampleQt</file>
+
+  </qresource>
+</RCC>
